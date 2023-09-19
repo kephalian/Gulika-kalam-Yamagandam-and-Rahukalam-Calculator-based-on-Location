@@ -1,5 +1,6 @@
 # Gulika-kalam-Yamagandam-and-Rahukalam-Calculator-based-on-Location
-A Python program using Geopy and Suntime module to calculate Yamagandam, Gulika kalam, and Rahu kalam in Indian Standard Time.
+A Python program using Geopy and Suntime module to calculate Yamagandam, Gulika kalam, and Rahu kalam in Indian Standard time
+[rahukal_yamagandam_gulika_calculator.py](https://github.com/kephalian/Gulika-kalam-Yamagandam-and-Rahukalam-Calculator-based-on-Location/blob/main/rahukal_yamagandam_gulika_calculator.py)
 
 ### Gulika kalam (Good time in Sanskrit)** is auspicious time of day, accepted for starting things or doing good deeds.
 
